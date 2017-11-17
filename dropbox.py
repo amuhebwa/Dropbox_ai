@@ -5,16 +5,6 @@ Created on Wed Dec 21 12:26:16 2016
 
 @author: amuhebwa
 """
-"""
-https://keras.io/#keras-deep-learning-library-for-theano-and-tensorflow
-
-http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/
-https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/
-http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
-http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
-https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-"""
 from keras.datasets import cifar10
 from keras.models import Sequential
 from keras.layers import Activation,Dropout,Dense,Flatten
